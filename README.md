@@ -1,4 +1,4 @@
-(0x20)(0x20)(0x20)![Pemprograman 2](https://www.polban.ac.id/wp-content/uploads/2017/11/logo-web-polban.png)
+![Pemprograman 2](https://www.polban.ac.id/wp-content/uploads/2017/11/logo-web-polban.png)
 ========================================
 Selamat Datang di Repositori Pemprograman 2
 ========================================
