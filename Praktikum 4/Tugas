@@ -1,0 +1,11 @@
+Buatlah sebuah program input nilai mata kuliah
+
+Dengan algoritma :
+1. User menginputkan nim
+2. User menginputkan nama mahasiswa
+3. User menginputkan nama matakuliah
+4. User menginputkan nilai lain2
+5. User menginputkan nilai uts
+6. User menginputkan nilai uas
+7. program menghitung nilai akhir otomatis dan memberikan grade
+8. Program menampilkan nilai yang di input 
