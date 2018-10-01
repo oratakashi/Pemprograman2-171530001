@@ -2,6 +2,26 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - DemoBreakLoopLabel",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "DemoBreakLoopLabel",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoBreakLoop",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "DemoBreakLoop",
+            "args": ""
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - DemoFor",
             "request": "launch",
             "cwd": "${workspaceFolder}",
