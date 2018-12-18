@@ -780,6 +780,11 @@ public class Menu extends javax.swing.JFrame {
         txtUsername.setForeground(java.awt.Color.white);
         txtUsername.setBorder(null);
         txtUsername.setOpaque(false);
+        txtUsername.addKeyListener(new java.awt.event.KeyAdapter() {
+            public void keyTyped(java.awt.event.KeyEvent evt) {
+                txtUsernameKeyTyped(evt);
+            }
+        });
 
         btnApply.setText("Apply");
         btnApply.addActionListener(new java.awt.event.ActionListener() {
@@ -1409,6 +1414,10 @@ public class Menu extends javax.swing.JFrame {
         pDashboard.setVisible(false);
         dashboard_active = false;
     }//GEN-LAST:event_mnReportMouseClicked
+
+    private void txtUsernameKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtUsernameKeyTyped
+        lblUsername.setText(txtUsername.getText());
+    }//GEN-LAST:event_txtUsernameKeyTyped
 
     /**
      * @param args the command line arguments
