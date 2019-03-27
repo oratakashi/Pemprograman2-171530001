@@ -2,7 +2,7 @@
 ========================================
 Selamat Datang di Repositori Pemprograman 2
 ========================================
-### Akademi Komunitas Negeri Kajen 
+### Politeknik Negeri Bandung
 PDD.Politeknik Negeri Bandung
 
 NIM           | Progdi
